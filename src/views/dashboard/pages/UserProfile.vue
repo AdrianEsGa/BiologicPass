@@ -38,7 +38,7 @@
 
                 <v-col cols="12" class="text-right">
                   <v-btn color="success" class="mr-0">
-                    Actualizar perfil
+                    Actualizar
                   </v-btn>
                 </v-col>
               </v-row>
